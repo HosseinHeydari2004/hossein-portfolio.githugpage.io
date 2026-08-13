@@ -8,7 +8,7 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/hossein-portfolio">
+    <BrowserRouter basename="/hossein-portfolio.githugpage.io">
       <App />
     </BrowserRouter>
   </StrictMode>,

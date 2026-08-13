@@ -7,8 +7,7 @@ import remarkFrontmatter from 'remark-frontmatter'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '
-hossein-portfolio.githugpage.io',
+  base: '/hossein-portfolio.githugpage.io/',
   plugins: [
     {
       enforce: 'pre',
